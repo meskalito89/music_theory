@@ -10,7 +10,7 @@
     "abcjs": "^5.12.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^3.4.3",
     "vexflow": "^3.0.9"
   },
   "scripts": {
